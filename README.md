@@ -2,4 +2,4 @@
 このリポジトリはGit動画講座用です．
 ローカルリポで変更
 new-featureブランチで変更
-no-fastforwardで変更
+conflictbranchで変更
