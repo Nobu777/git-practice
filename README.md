@@ -2,4 +2,4 @@
 このリポジトリはGit動画講座用です．
 ローカルリポで変更
 new-featureブランチで変更
-Github上で更新
+Conflict-Remote上で更新
