@@ -1,2 +1,2 @@
 rebase pull
-stash練習(トラック済み)
+stash練習(2nd変更)
